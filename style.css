@@ -7,7 +7,38 @@
     font-family: verdana;
 }
 
-.my-name {
-    font-family: 'Overpass', sans-serif;
+.photo-of-me {
+    animation: fadeInDown;
+    animation-duration: 1s;
 }
 
+.my-name {
+    font-family: 'Overpass', sans-serif;
+    animation: fadeInDown;
+    animation-duration: 1s;
+}
+
+.fun-facts {
+    animation: rubberBand;
+    animation-duration: 1s;
+}
+
+.hey-there {
+    animation: rubberBand;
+    animation-duration: 1s;
+}
+
+.github-icon {
+    animation: rotateIn;
+    animation-duration: 1s;
+}
+
+.linkedin-icon {
+    animation: rotateIn;
+    animation-duration: 1s;
+}
+
+.email-icon {
+    animation: rotateIn;
+    animation-duration: 1s;
+}
